@@ -25,3 +25,4 @@
 <a url="https://www.linkedin.com/school/sptechschool/">
   <img align="right" style="height: 80px; display:inline_block" src="https://www.sptech.school/assets/images/logos/sptech_logo.png">
 </a>
+
