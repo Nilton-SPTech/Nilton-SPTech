@@ -11,7 +11,7 @@
 
 <br>
 
-## Tecnologias que eu utilizo no meu dia de desenvolvimento
+## Tecnologias que utilizei
 
 <div style="display=inline_block">
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -57,6 +57,6 @@
 <br>
 
 <a url="https://www.linkedin.com/school/sptechschool/">
-  <img align="right" style="height: 80px; display:inline_block" src="https://www.sptech.school/assets/images/logos/sptech_logo.png">
+  <img align="right" style="height: 80px; display:inline_block" src="https://pbs.twimg.com/profile_images/1462844108972638209/yBoNz-6Q_400x400.jpg">
 </a>
 
